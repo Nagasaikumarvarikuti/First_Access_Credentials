@@ -47,6 +47,6 @@ The **First_Access_Credential** Logic App is designed to monitor and analyze sus
 
 ✅ **Feel free to open an issue or submit a pull request if you encounter any problems!** 😎  
 
+## 🚀 **Deploy to Azure**  
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fnagasaikumarvarikuti.github.io%2FFirst_Access_Credentials%2Fazuredeploy.json)
 
-## 🚀 **Deploy to Azure**
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://rawcdn.githack.com/Nagasaikumarvarikuti/First_Access_Credentials/main/azuredeploy.json)
