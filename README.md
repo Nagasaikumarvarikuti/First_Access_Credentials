@@ -33,7 +33,6 @@ The **First_Access_Credential** Logic App is designed to monitor and analyze sus
 - 🛡️ **Microsoft Sentinel** – To retrieve and update incidents.  
 - 🦠 **VirusTotal** – For IP reputation checks.  
 - 📊 **Azure Monitor** – For sign-in activity and log analysis.  
-- 💼 **Microsoft Graph API** – To validate user activity.  
 - 📧 **Office365** – For sending email notifications.  
 
 ---
