@@ -1,5 +1,3 @@
-# First_Access_Credentials
-
 # Azure Logic App: First_Access_Credential  
 
 ## 🎯 **Purpose**  
